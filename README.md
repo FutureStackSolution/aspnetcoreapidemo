@@ -15,7 +15,11 @@ Here are technologies which have been used:
 - Visual Studio Code- This is an awesome editor. If you have not heard about you are missing something. Please learn and read about it.
 
 ## What you can expect from the video:
-
+Here is the Agenda for this Video:
+- What is ASP.NET Core
+- The current State of ASP.NET Core
+- ASP.NET Core Features 
+- Dotnet Command lines - Questions and Answers
 - ASP.NET Core Structure and How to create APIs with controllers
 - How to setup Entity Framework Core with SQL Server. 
 - How to create migration with Entity Framework core and create tables from your model entities.
